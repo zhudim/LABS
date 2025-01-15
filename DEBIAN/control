@@ -1,0 +1,7 @@
+Package: count-files
+Version: 1.0
+Architecture: all
+Maintainer: Zhuk Vadim <gamer007fury@gmail.com>
+Description: A script to count files in the /etc directory.
+ This script counts the number of files (excluding directories and symlinks)
+ in the /etc directory.
